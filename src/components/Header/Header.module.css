@@ -1,0 +1,21 @@
+.title {
+    font-weight: lighter;
+    font-size: 20px;
+    color: black;
+}
+.desc {
+    font-weight: bolder;
+    font-size: 30px;
+    color: black;
+}
+.profileImageContainer {
+    text-align: right;
+}
+.profileImageContainer img {
+    width: 48px;
+    height: 48px;
+    border-radius: 100%;
+}
+.container {
+    margin-top: 20px;
+}

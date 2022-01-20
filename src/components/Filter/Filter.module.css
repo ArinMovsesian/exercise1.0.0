@@ -1,0 +1,13 @@
+/* .container {
+    overflow: scroll;
+    white-space: nowrap;
+} */
+.radio {
+    margin: 10px 5px;
+    font-size: 14px;
+} 
+.container p {
+    text-align: center;
+    margin-top: 10px;
+}
+
